@@ -1,6 +1,6 @@
 ---
 title: "PS270 Final Project"
-author: "Your Name Here"
+author: Casey Schwab
 description: "My final project"
 output:
   distill::distill_article:
@@ -11,4 +11,4 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to...
+I am interested in exploring data related to how levels of income inequality further influence voter turnout in national elections. My hypothesis that I propose is that higher levels of income inequality will result in lower voter turnout in national elections. I believe that this is a probable outcome because those who face more inequality have more obstacles to get through. Some of these obstacles could be so hard to overcome that it can deter people from voting as a whole. These obstacles could include time, resources, complex registration systems, and lack of knowledge/education. The variables I plan on using are level of income inequality as the independent variable and voter turnout as the dependent variable. The key explanatory variable (income inequality) is the variable that needs to be closely monitored as it will be the part that exhibits the most variable across the study. The outcome variable then is voter turnout, and will be measured as the percentage of eligible voters who show up to cast their vote on election day. Throughout this study, we need to be aware of confounding variables that may alter the data we receive. Factors such as education level, electoral system, or political competition need to be taken into account as they can skew the data. In relation to my hypothesis, it surrounds this idea that anyone who deals with high inequality, those individuals may feel disenfranchised and/or believe their vote is less impactful, deterring them from voting as a whole.
